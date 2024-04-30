@@ -1,41 +1,42 @@
 
 
-    h1:hover{
+h1:hover{
+    font-size: 30px;
+    color: aqua;
+    box-shadow: 50%;
+    box-sizing: 100px;
+    border: 20px;
+    margin: 20px;
+    
+    }
+  body {
+    background-image:url(https://wallpapercave.com/wp/wp5159749.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}  
+p {
+    color: antiquewhite;
+    }
+    a {
+        color:aqua;
+
+    }
+    h2:hover{
         font-size: 30px;
-        color: aqua;
-        box-shadow: 50%;
-        box-sizing: 100px;
-        border: 20px;
-        margin: 20px;
-        }
-      body {
-        background-image:url(https://wallpapercave.com/wp/wp5159749.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-
-    }  
-    p {
-        color: antiquewhite;
-        }
-        a {
-            color:aqua;
-
-        }
-        h2:hover{
-            font-size: 30px;
-        color: aqua;
-        box-shadow: 50%;
-        box-sizing: 100px;
-        border: 20px;
-        margin: 20px;
-        }
-        label{margin: 20px;
-            padding: 5px;
+    color: aqua;
+    box-shadow: 50%;
+    box-sizing: 100px;
+    border: 20px;
+    font-family: roboto;
+    margin: 20px;
+    }
+    label{margin: 20px;
+        padding: 5px;
 
 
 
-        }
-
+    }
 
 
 
